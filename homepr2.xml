@@ -4,78 +4,6 @@
 
 
 <channels>
-<channel>
-<name>Disclaimer</name>
-<thumbnail>http://stu.westga.edu/~tcooper1/Profdevtmc/images/ReadMeFirst.jpg</thumbnail>
-<externallink>http://goo.gl/G4UJro</externallink>
-<fanart>http://goo.gl/GYAQvA</fanart>
-<info>CiscoKid.box</info>
-</channel>
-
-<channel>
-<name>Canales P.R.</name>
-<thumbnail>http://thebestrokuchannels.com/images/The-Puerto-Rico-Channel.jpg</thumbnail>
-<externallink>http://goo.gl/kYxqbu</externallink>
-<fanart>http://goo.gl/GYAQvA</fanart>
-<info>CiscoKid.box</info>
-</channel>
-
-<channel>
-<name>Canales Español</name>
-<thumbnail>https://wtneary.files.wordpress.com/2013/04/xfinitylatino12logos.jpg</thumbnail>
-<externallink>http://goo.gl/jc55m9</externallink>
-<fanart>http://goo.gl/GYAQvA</fanart>
-<info>CiscoKid.box</info>
-</channel>
-
-<channel>
-<name>Deportes</name>
-<thumbnail>http://www.xsusnet.net/mecalibre/Canales-Deportivos-watermar.png</thumbnail>
-<externallink>http://goo.gl/eQUlDu</externallink>
-<fanart>http://goo.gl/GYAQvA</fanart>
-<info>CiscoKid.box</info>
-</channel>
-
-<channel>
-<name>Canales Para Niños</name>
-<thumbnail>http://www.star.mx/jupgrade/images/Planes/Plan4/canales-ninos4.jpg</thumbnail>
-<externallink>http://goo.gl/JHNyRZ</externallink>
-<fanart>http://goo.gl/GYAQvA</fanart>
-<info>CiscoKid.box</info>
-</channel>
-
-<channel>
-<name>Kids English Channels</name>
-<thumbnail>https://kidschannelofficial.files.wordpress.com/2015/10/01.jpg?w=261&h=261&crop=1</thumbnail>
-<externallink>http://goo.gl/EUfB9A</externallink>
-<fanart>http://goo.gl/GYAQvA</fanart>
-<info>CiscoKid.box</info>
-</channel>
-
-<channel>
-<name>USA Channels</name>
-<thumbnail>http://appbalo.com/wp-content/uploads/2014/08/Live-USA-Channels.png</thumbnail>
-<externallink>http://goo.gl/REmnAj</externallink>
-<fanart>http://goo.gl/GYAQvA</fanart>
-<info>CiscoKid.box</info>
-</channel>
-
-<channel>
-<name>USA Sports Channels</name>
-<thumbnail>https://thumbs.dreamstime.com/x/usa-sports-logos-vector-logo-collection-most-popular-team-leagues-u-s-including-nfl-mlb-nba-editable-eps-65408082.jpg</thumbnail>
-<externallink>http://goo.gl/3YdoRO</externallink>
-<fanart>http://goo.gl/GYAQvA</fanart>
-<info>CiscoKid.box</info>
-</channel>
-
-
-<channel>
-<name>UK Channels</name>
-<thumbnail>http://cdn7.staztic.com/app/a/8272/8272267/uk-live-tv-channels-1-1-s-307x512.jpg</thumbnail>
-<externallink></externallink>
-<fanart>http://goo.gl/GYAQvA</fanart>
-<info>CiscoKid.box</info>
-</channel>
 
 <channel>
 <name>Random P.R. Brothers</name>
@@ -102,3 +30,4 @@
 </channel>
 
 </channels>
+
