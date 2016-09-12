@@ -48,15 +48,15 @@
 <channel>
 <name>[COLOR lime]R[/COLOR][COLOR lightblue]a[/COLOR][COLOR yellow]n[/COLOR][COLOR red]d[/COLOR][COLOR blue]o[/COLOR][COLOR lightgreen]m[/COLOR][COLOR yellow] 2[/COLOR] IPTV Play Español</name>
 <thumbnail>http://goo.gl/PTaWvR</thumbnail>
-<externallink>http://goo.gl/M5R77R</externallink>
+<externallink>https://raw.githubusercontent.com/zsko/kodirppr/master/__random2pr.m3u8</externallink>
 <fanart></fanart>
 <info>CiscoKid.box</info>
 </channel>
 
 <channel>
-<name>[COLOR lime]R[/COLOR][COLOR lightblue]a[/COLOR][COLOR yellow]n[/COLOR][COLOR red]d[/COLOR][COLOR blue]o[/COLOR][COLOR lightgreen]m[/COLOR][COLOR red] 3[/COLOR]  - English</name>
+<name>[COLOR lime]R[/COLOR][COLOR lightblue]a[/COLOR][COLOR yellow]n[/COLOR][COLOR red]d[/COLOR][COLOR blue]o[/COLOR][COLOR lightgreen]m[/COLOR][COLOR red] 3[/COLOR]  - English (Updated 09/10/16)</name>
 <thumbnail>http://goo.gl/Muq6A0</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/zsko/kodirppr/master/__random3pr.m3u8</externallink>
 <fanart></fanart>
 <info>CiscoKid.box</info>
 </channel>
