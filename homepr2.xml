@@ -6,6 +6,14 @@
 <channels>
 
 <channel>
+<name>Disclaimer</name>
+<thumbnail>http://stu.westga.edu/~tcooper1/Profdevtmc/images/ReadMeFirst.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/zsko/kodirppr/master/disc.xml</externallink>
+<fanart>http://goo.gl/GYAQvA</fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
 <name>Random P.R. Brothers</name>
 <thumbnail>http://unknownmetalbands.com/wp-content/gallery/logos/brotherhood.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/zsko/kodirppr/master/bro.xml</externallink>
