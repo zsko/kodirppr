@@ -40,7 +40,7 @@
 </item>
 
 <item>
-<title>AZ Corazon LatinoAmerica - Offline</title>
+<title>AZ Corazon LatinoAmerica</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?%2FPROFILE00-801%2F.ts</link>
 <thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3614.png</thumbnail>
 <fanart></fanart>
@@ -147,6 +147,13 @@
 <item>
 <title>Discovery Theather Espanol HD</title>
 <link>http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?%2FPROFILE00-801%2F.ts</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/29.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Discovery Turbo</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?%2FPROFILE00-801%2F.ts</link>
 <thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/29.png</thumbnail>
 <fanart></fanart>
 </item>
