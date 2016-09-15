@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<layouttype>This file has been removed.</layouttype>
+
+
+<channels>
+
+<channel>
+<name>Disclaimer</name>
+<thumbnail>http://stu.westga.edu/~tcooper1/Profdevtmc/images/ReadMeFirst.jpg</thumbnail>
+<externallink>http://goo.gl/ECEvkR</externallink>
+<fanart>http://goo.gl/GYAQvA</fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
+<name>Random P.R. Brothers</name>
+<thumbnail>http://unknownmetalbands.com/wp-content/gallery/logos/brotherhood.jpg</thumbnail>
+<externallink>http://goo.gl/MucPQW</externallink>
+<fanart>http://unknownmetalbands.com/wp-content/gallery/logos/brotherhood.jpg</fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
+<name>Special Events</name>
+<thumbnail>http://www.clipartkid.com/images/344/special-event-clipart-eps-images-5614-special-event-clip-art-vector-Pzc1bf-clipart.jpg</thumbnail>
+<externallink>http://goo.gl/Y7EM2I</externallink>
+<fanart>http://goo.gl/GYAQvA</fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+<channel>
+<name>Random Lists</name>
+<thumbnail>http://goo.gl/Muq6A0</thumbnail>
+<externallink>http://goo.gl/jz9ggI</externallink>
+<fanart></fanart>
+<info>CiscoKid.box</info>
+</channel>
+
+</channels>
+
