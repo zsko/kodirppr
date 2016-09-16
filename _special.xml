@@ -4,7 +4,13 @@
 
 <streamingInfos>
 
-
+<channel>
+<name>[COLOR white]If you enjoy this free events you can say thanks here: https://www.paypal.me/CiscoRandom or here ciscociscorandom@gmail.com[/COLOR]</name>
+<thumbnail>http://goo.gl/7L6Pxa</thumbnail>
+<externallink>https://goo.gl/EF2nnN</externallink>
+<fanart>http://goo.gl/GYAQvA</fanart>
+<info>CiscoKid.box</info>
+</channel>
 
 <item>
 <title>[COLOR red]***[/COLOR][COLOR lightblue]LINKS WILL BE AVAILABLE HERE AT THE TIME OF THE EVENT.[/COLOR][COLOR red]***[/COLOR]</title>
@@ -14,8 +20,19 @@
 </item>
 
 
+<item>
+<title>N.Y. vs Boston Option 1</title>
+<link>http://213.152.168.37:8081/live/llive8z.m3u8?e=1474063658&st=1goTtkkOTZ9cgnBDtr255w</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
-
+<item>
+<title>N.Y. vs Boston Option 2</title>
+<link>http://cdn.widestream.io:8081/wideedge/push-u34w4wh/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDE2IDExOjE4OjIyIFBNJmhhc2hfdmFsdWU9RFUrL3dYUFZpOEdLcUNNWVhNUG9rUT09JnZhbGlkbWludXRlcz0yMA==</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 <!!--item>
 <title>[COLOR red]               *****[/COLOR][COLOR lightblue] UPCOMING EVENTS [/COLOR][COLOR red]*****[/COLOR]</title>
@@ -23,17 +40,13 @@
 <thumbnail>http://goo.gl/HY6IEn</thumbnail>
 <fanart></fanart>
 </item>
-
+http://51.255.70.112:8000/live/pg/pg/1842.m3u8
+http://51.255.70.112:8000/live/gb/gb/1842.ts---- test with f4m
+http://51.255.70.112:8000/live/Jason/Jason/1842.m3u8
+https://raw.githubusercontent.com/zsko/kodirppr/master/__Canelo-Smith-PR.xml
 <item>
 <title>Canelo vs Smith Sept. 17</title>
 <link>http://facebook.com/qualityandgoodprices</link>
 <thumbnail>https://www.frankwarren.com/wp-content/uploads/2016/06/Canelo-v-Smith1.png</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>CNET Pre-Event - Apple Event San Francisco</title>
-<link>http://livestream-f.akamaihd.net/i/687825_6262224_lsifdbi400lx501z9rj_1@305999/master.m3u8?__b__=678&dw=100&hdnea=st=1473264402~exp=1473266202~acl=/i/687825_6262224_lsifdbi400lx501z9rj_1@305999/*~hmac=a586e0fa57b1dfc1872eef9c63a17818e1d5ef6e959b1b0e7a2219a5a74886fa&__a__=off</link>
-<thumbnail>http://i.amz.mshcdn.com/RQpY4k_M9q1f6gdqfp9NrilQcK8=/950x534/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F201854%2FScreen_Shot_2016-09-06_at_2.39.11_PM.jpg</thumbnail>
 <fanart></fanart>
 </item>
