@@ -107,7 +107,12 @@
 <fanart></fanart>
 </item>
 
-
+<item>
+<title>YES Network</title>
+<link>http://198.144.148.113:9850/live/UHzBk0eoh6/9TeTQDyDBW/151.ts</link>
+<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1812.png</thumbnail>
+<fanart></fanart>
+</item>
 
 
 
@@ -298,9 +303,4 @@
 <fanart></fanart>
 </item>
 
-<item>
-<title>YES Network</title>
-<link>http://freedom.duki.me/LIVE/H02/YesNetworkUS/master.m3u8</link>
-<thumbnail>http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1812.png</thumbnail>
-<fanart></fanart>
-</item>
+
