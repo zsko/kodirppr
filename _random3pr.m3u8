@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Sky Sporm3u8 News HD
-http://mediaiptv.xyz:8000/live/julie/julie/1698.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1698.m3u8
 #EXTINF:-1,Sky Sporm3u8 F1 UK
-http://mediaiptv.xyz:8000/live/julie/julie/1696.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1696.m3u8
 #EXTINF:-1,Sky Sporm3u8 Box Office UK
 http://mediaiptv.xyz:8000/live/julie/julie/1695.m3u8
 #EXTINF:-1,Sky Sporm3u8 5 UK
