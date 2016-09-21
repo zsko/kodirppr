@@ -1,449 +1,449 @@
 #EXTM3U
-#EXTINF:-1,Sky Sporm3u8 News HD
+#EXTINF:-1,Sky Sports News HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1698.ts
-#EXTINF:-1,Sky Sporm3u8 F1 UK
+#EXTINF:-1,Sky Sports F1 UK
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1696.ts
-#EXTINF:-1,Sky Sporm3u8 Box Office UK
-http://mediaiptv.xyz:8000/live/julie/julie/1695.m3u8
-#EXTINF:-1,Sky Sporm3u8 5 UK
-http://mediaiptv.xyz:8000/live/julie/julie/1693.m3u8
-#EXTINF:-1,Sky Sporm3u8 4 UK
-http://mediaiptv.xyz:8000/live/julie/julie/1691.m3u8
-#EXTINF:-1,Sky Sporm3u8 3 UK
-http://mediaiptv.xyz:8000/live/julie/julie/1689.m3u8
-#EXTINF:-1,Sky Sporm3u8 2 UK
-http://mediaiptv.xyz:8000/live/julie/julie/1687.m3u8
-#EXTINF:-1,Sky Sporm3u8 1 UK
-http://mediaiptv.xyz:8000/live/julie/julie/1685.m3u8
+#EXTINF:-1,Sky Sports Box Office UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1695.ts
+#EXTINF:-1,Sky Sports 5 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1693.ts
+#EXTINF:-1,Sky Sports 4 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1691.ts
+#EXTINF:-1,Sky Sports 3 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1689.ts
+#EXTINF:-1,Sky Sports 2 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1687.ts
+#EXTINF:-1,Sky Sports 1 UK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1685.ts
 #EXTINF:-1,Sky Movies Showcase
-http://mediaiptv.xyz:8000/live/julie/julie/1684.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1684.ts
 #EXTINF:-1,Sky Movies Sci-Fi & Horror UK
-http://mediaiptv.xyz:8000/live/julie/julie/1682.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1682.ts
 #EXTINF:-1,Sky Movies Sci-Fi & Horror HD
-http://mediaiptv.xyz:8000/live/julie/julie/1683.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1683.ts
 #EXTINF:-1,Sky Movies Premiere HD
-http://mediaiptv.xyz:8000/live/julie/julie/1681.m3u8
-#EXTINF:-1,Sky Movies Gream3u8 HD
-http://mediaiptv.xyz:8000/live/julie/julie/1680.m3u8
-#EXTINF:-1,Sky Movies Gream3u8
-http://mediaiptv.xyz:8000/live/julie/julie/1679.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1681.ts
+#EXTINF:-1,Sky Movies Greats HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1680.ts
+#EXTINF:-1,Sky Movies Greats
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1679.ts
 #EXTINF:-1,Sky Movies Family UK
-http://mediaiptv.xyz:8000/live/julie/julie/1677.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1677.ts
 #EXTINF:-1,Sky Movies Family HD
-http://mediaiptv.xyz:8000/live/julie/julie/1678.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1678.ts
 #EXTINF:-1,Sky Movies Drama & Romance HD
-http://mediaiptv.xyz:8000/live/julie/julie/1676.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1676.ts
 #EXTINF:-1,Sky Movies Disney UK
-http://mediaiptv.xyz:8000/live/julie/julie/1674.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1674.ts
 #EXTINF:-1,Sky Movies Disney HD
-http://mediaiptv.xyz:8000/live/julie/julie/1675.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1675.ts
 #EXTINF:-1,Sky Movies Crime & Thriller HD
-http://mediaiptv.xyz:8000/live/julie/julie/1673.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1673.ts
 #EXTINF:-1,Sky Movies Crime & Thriller
-http://mediaiptv.xyz:8000/live/julie/julie/1672.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1672.ts
 #EXTINF:-1,Sky Movies Comedy HD
-http://mediaiptv.xyz:8000/live/julie/julie/1671.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1671.ts
 #EXTINF:-1,Sky Movies Action & Adventure HD
-http://mediaiptv.xyz:8000/live/julie/julie/1670.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1670.ts
 #EXTINF:-1,Sky Movies Action & Adventure
-http://mediaiptv.xyz:8000/live/julie/julie/1669.m3u8
-#EXTINF:-1,BT Sporm3u8 2
-http://mediaiptv.xyz:8000/live/julie/julie/1981.m3u8
-#EXTINF:-1,BT Sporm3u8 1
-http://mediaiptv.xyz:8000/live/julie/julie/1980.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1669.ts
+#EXTINF:-1,BT Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1981.ts
+#EXTINF:-1,BT Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1980.ts
 #EXTINF:-1,CBS Reality
-http://mediaiptv.xyz:8000/live/julie/julie/1913.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1913.ts
 #EXTINF:-1,CBS Drama
-http://mediaiptv.xyz:8000/live/julie/julie/1912.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1912.ts
 #EXTINF:-1,CBS Action
-http://mediaiptv.xyz:8000/live/julie/julie/1911.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1911.ts
 #EXTINF:-1,BBC 1 HD
-http://mediaiptv.xyz:8000/live/julie/julie/1513.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1513.ts
 #EXTINF:-1,BBC One
-http://mediaiptv.xyz:8000/live/julie/julie/755.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/755.ts
 #EXTINF:-1,BBC Two
-http://mediaiptv.xyz:8000/live/julie/julie/756.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/756.ts
 #EXTINF:-1,BBC Two HD
-http://mediaiptv.xyz:8000/live/julie/julie/1478.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1478.ts
 #EXTINF:-1,BBC  World News
-http://mediaiptv.xyz:8000/live/julie/julie/757.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/757.ts
 #EXTINF:-1,BBC Four
-http://mediaiptv.xyz:8000/live/julie/julie/758.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/758.ts
 #EXTINF:-1,Channel 4
-http://mediaiptv.xyz:8000/live/julie/julie/763.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/763.ts
 #EXTINF:-1,Channel 5 UK
-http://mediaiptv.xyz:8000/live/julie/julie/764.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/764.ts
 #EXTINF:-1,Channel 5 PK
-http://mediaiptv.xyz:8000/live/julie/julie/569.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/569.ts
 #EXTINF:-1,ITV 1
-http://mediaiptv.xyz:8000/live/julie/julie/759.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/759.ts
 #EXTINF:-1,ITV 2
-http://mediaiptv.xyz:8000/live/julie/julie/760.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/760.ts
 #EXTINF:-1,ITV 3
-http://mediaiptv.xyz:8000/live/julie/julie/761.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/761.ts
 #EXTINF:-1,ITV 4
-http://mediaiptv.xyz:8000/live/julie/julie/762.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/762.ts
 #EXTINF:-1,5 Star
-http://mediaiptv.xyz:8000/live/julie/julie/770.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/770.ts
 #EXTINF:-1,RTE Two
-http://mediaiptv.xyz:8000/live/julie/julie/1498.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1498.ts
 #EXTINF:-1,RTE One
-http://mediaiptv.xyz:8000/live/julie/julie/1495.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1495.ts
 #EXTINF:-1,RT1
-http://mediaiptv.xyz:8000/live/julie/julie/1484.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1484.ts
 #EXTINF:-1,RT2
-http://mediaiptv.xyz:8000/live/julie/julie/1485.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1485.ts
 #EXTINF:-1,TV3
-http://mediaiptv.xyz:8000/live/julie/julie/1904.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1904.ts
 #EXTINF:-1,TG4
-http://mediaiptv.xyz:8000/live/julie/julie/1905.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1905.ts
 #EXTINF:-1,Dave
-http://mediaiptv.xyz:8000/live/julie/julie/1497.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1497.ts
 #EXTINF:-1,E! UK
-http://mediaiptv.xyz:8000/live/julie/julie/1819.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1819.ts
 #EXTINF:-1,More4
-http://mediaiptv.xyz:8000/live/julie/julie/778.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/778.ts
 #EXTINF:-1,E4
-http://mediaiptv.xyz:8000/live/julie/julie/1816.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1816.ts
 #EXTINF:-1,Syfy UK
-http://mediaiptv.xyz:8000/live/julie/julie/1764.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1764.ts
 #EXTINF:-1,FOX
-http://mediaiptv.xyz:8000/live/julie/julie/1758.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1758.ts
 #EXTINF:-1,Sky One
-http://mediaiptv.xyz:8000/live/julie/julie/1823.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1823.ts
 #EXTINF:-1,Sky Two
-http://mediaiptv.xyz:8000/live/julie/julie/765.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/765.ts
 #EXTINF:-1,Sky Living
-http://mediaiptv.xyz:8000/live/julie/julie/1771.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1771.ts
 #EXTINF:-1,Sky Alibi
-http://mediaiptv.xyz:8000/live/julie/julie/768.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/768.ts
 #EXTINF:-1,Sky Art 1
-http://mediaiptv.xyz:8000/live/julie/julie/1772.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1772.ts
 #EXTINF:-1,Sky 5 USA
-http://mediaiptv.xyz:8000/live/julie/julie/769.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/769.ts
 #EXTINF:-1,Drama
-http://mediaiptv.xyz:8000/live/julie/julie/1770.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1770.ts
 #EXTINF:-1,True Drama
-http://mediaiptv.xyz:8000/live/julie/julie/1762.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1762.ts
 #EXTINF:-1,Gold
-http://mediaiptv.xyz:8000/live/julie/julie/1773.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1773.ts
 #EXTINF:-1,Watch
-http://mediaiptv.xyz:8000/live/julie/julie/1767.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1767.ts
 #EXTINF:-1,Quest
-http://mediaiptv.xyz:8000/live/julie/julie/1774.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1774.ts
 #EXTINF:-1,TLC UK
-http://mediaiptv.xyz:8000/live/julie/julie/1822.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1822.ts
 #EXTINF:-1,3e
-http://mediaiptv.xyz:8000/live/julie/julie/1824.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1824.ts
 #EXTINF:-1,Yesterday
-http://mediaiptv.xyz:8000/live/julie/julie/773.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/773.ts
 #EXTINF:-1,Pick TV
-http://mediaiptv.xyz:8000/live/julie/julie/1821.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1821.ts
 #EXTINF:-1,H2
-http://mediaiptv.xyz:8000/live/julie/julie/1820.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1820.ts
 #EXTINF:-1,Comedy Central
-http://mediaiptv.xyz:8000/live/julie/julie/1817.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1817.ts
 #EXTINF:-1,Cartoon Network
-http://mediaiptv.xyz:8000/live/julie/julie/1825.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1825.ts
 #EXTINF:-1,Boomerang
-http://mediaiptv.xyz:8000/live/julie/julie/1826.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1826.ts
 #EXTINF:-1,Nickelodeon
-http://mediaiptv.xyz:8000/live/julie/julie/1828.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1828.ts
 #EXTINF:-1,Nick Toons
-http://mediaiptv.xyz:8000/live/julie/julie/1827.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1827.ts
 #EXTINF:-1,Baby TV
-http://mediaiptv.xyz:8000/live/julie/julie/1829.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1829.ts
 #EXTINF:-1,Tiny Pop
-http://mediaiptv.xyz:8000/live/julie/julie/1763.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1763.ts
 #EXTINF:-1,Disney XD
-http://mediaiptv.xyz:8000/live/julie/julie/737.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/737.ts
 #EXTINF:-1,Disney Junior
-http://mediaiptv.xyz:8000/live/julie/julie/738.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/738.ts
 #EXTINF:-1,Disney Channel
-http://mediaiptv.xyz:8000/live/julie/julie/405.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/405.ts
 #EXTINF:-1,National Geographic
-http://mediaiptv.xyz:8000/live/julie/julie/1483.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1483.ts
 #EXTINF:-1,Nat Geo Wild
-http://mediaiptv.xyz:8000/live/julie/julie/1482.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1482.ts
 #EXTINF:-1,History
-http://mediaiptv.xyz:8000/live/julie/julie/1481.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1481.ts
 #EXTINF:-1,Discovery
-http://mediaiptv.xyz:8000/live/julie/julie/741.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/741.ts
 #EXTINF:-1,Discovery Science
-http://mediaiptv.xyz:8000/live/julie/julie/771.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/771.ts
 #EXTINF:-1,Discovery Channel
-http://mediaiptv.xyz:8000/live/julie/julie/780.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/780.ts
 #EXTINF:-1,Discovery Investigation
-http://mediaiptv.xyz:8000/live/julie/julie/740.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/740.ts
 #EXTINF:-1,Animal Planet
-http://mediaiptv.xyz:8000/live/julie/julie/781.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/781.ts
 #EXTINF:-1,Crime & Investigiation
-http://mediaiptv.xyz:8000/live/julie/julie/742.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/742.ts
 #EXTINF:-1,MTV Dance
-http://mediaiptv.xyz:8000/live/julie/julie/734.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/734.ts
 #EXTINF:-1,MTV Base
-http://mediaiptv.xyz:8000/live/julie/julie/735.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/735.ts
 #EXTINF:-1,MTV
-http://mediaiptv.xyz:8000/live/julie/julie/736.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/736.ts
 #EXTINF:-1,VH1
-http://mediaiptv.xyz:8000/live/julie/julie/774.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/774.ts
 #EXTINF:-1,VEVO 1
-http://mediaiptv.xyz:8000/live/julie/julie/786.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/786.ts
 #EXTINF:-1,VEVO 2
-http://mediaiptv.xyz:8000/live/julie/julie/787.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/787.ts
 #EXTINF:-1,VIVO 3
-http://mediaiptv.xyz:8000/live/julie/julie/788.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/788.ts
 #EXTINF:-1,Sky News
-http://mediaiptv.xyz:8000/live/julie/julie/1759.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1759.ts
 #EXTINF:-1,True Movies1
-http://mediaiptv.xyz:8000/live/julie/julie/1760.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1760.ts
 #EXTINF:-1,True Movies 2
-http://mediaiptv.xyz:8000/live/julie/julie/1761.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1761.ts
 #EXTINF:-1,B4U Music
-http://mediaiptv.xyz:8000/live/julie/julie/661.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/661.ts
 #EXTINF:-1,B4U Movies
-http://mediaiptv.xyz:8000/live/julie/julie/498.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/498.ts
 #EXTINF:-1,ZEE Cinema UK
-http://mediaiptv.xyz:8000/live/julie/julie/608.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/608.ts
 #EXTINF:-1,Colors TV HD
-http://mediaiptv.xyz:8000/live/julie/julie/656.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/656.ts
 #EXTINF:-1,ARY Digital
-http://mediaiptv.xyz:8000/live/julie/julie/576.m3u8
-#EXTINF:-1,Sky Sporm3u8 F1 HD
-http://mediaiptv.xyz:8000/live/julie/julie/724.m3u8
-#EXTINF:-1,Sky Sporm3u8 1 HD
-http://mediaiptv.xyz:8000/live/julie/julie/725.m3u8
-#EXTINF:-1,Sky Sporm3u8 2 HD
-http://mediaiptv.xyz:8000/live/julie/julie/726.m3u8
-#EXTINF:-1,Sky Sporm3u8 3 HD
-http://mediaiptv.xyz:8000/live/julie/julie/727.m3u8
-#EXTINF:-1,Sky Sporm3u8 4 HD
-http://mediaiptv.xyz:8000/live/julie/julie/728.m3u8
-#EXTINF:-1,Sky Sporm3u8 5 HD
-http://mediaiptv.xyz:8000/live/julie/julie/729.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/576.ts
+#EXTINF:-1,Sky Sports F1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/724.ts
+#EXTINF:-1,Sky Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/725.ts
+#EXTINF:-1,Sky Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/726.ts
+#EXTINF:-1,Sky Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/727.ts
+#EXTINF:-1,Sky Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/728.ts
+#EXTINF:-1,Sky Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/729.ts
 #EXTINF:-1,BT Sport 1 HD
-http://mediaiptv.xyz:8000/live/julie/julie/733.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/733.ts
 #EXTINF:-1,BT Sport 2 HD
-http://mediaiptv.xyz:8000/live/julie/julie/732.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/732.ts
 #EXTINF:-1,BT Sport Europe HD
-http://mediaiptv.xyz:8000/live/julie/julie/731.m3u8
-#EXTINF:-1,Premiere Sporm3u8
-http://mediaiptv.xyz:8000/live/julie/julie/1494.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/731.ts
+#EXTINF:-1,Premiere Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1494.ts
 #EXTINF:-1,Racing UK
-http://mediaiptv.xyz:8000/live/julie/julie/1892.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1892.ts
 #EXTINF:-1,At The Races
-http://mediaiptv.xyz:8000/live/julie/julie/1891.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1891.ts
 #EXTINF:-1,Setanta Sport
-http://mediaiptv.xyz:8000/live/julie/julie/718.m3u8
-#EXTINF:-1,Setanta Sporm3u8 Ireland
-http://mediaiptv.xyz:8000/live/julie/julie/717.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/718.ts
+#EXTINF:-1,Setanta Sports Ireland
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/717.ts
 #EXTINF:-1,BoxNation
-http://mediaiptv.xyz:8000/live/julie/julie/1842.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1842.ts
 #EXTINF:-1,MUTV
-http://mediaiptv.xyz:8000/live/julie/julie/719.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/719.ts
 #EXTINF:-1,Chelsea TV
-http://mediaiptv.xyz:8000/live/julie/julie/723.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/723.ts
 #EXTINF:-1,Liverpool FC
-http://mediaiptv.xyz:8000/live/julie/julie/720.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/720.ts
 #EXTINF:-1,ESPN 1
-http://mediaiptv.xyz:8000/live/julie/julie/713.m3u8
-#EXTINF:-1,EuroSporm3u8 1
-http://mediaiptv.xyz:8000/live/julie/julie/722.m3u8
-#EXTINF:-1,EuroSporm3u8 2
-http://mediaiptv.xyz:8000/live/julie/julie/721.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/713.ts
+#EXTINF:-1,EuroSports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/722.ts
+#EXTINF:-1,EuroSports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/721.ts
 #EXTINF:-1,OSN Movies Festival
-http://mediaiptv.xyz:8000/live/julie/julie/1219.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1219.ts
 #EXTINF:-1,OSN Movies Drama
-http://mediaiptv.xyz:8000/live/julie/julie/1218.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1218.ts
 #EXTINF:-1,OSN Movies
-http://mediaiptv.xyz:8000/live/julie/julie/1217.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1217.ts
 #EXTINF:-1,OSN Action
-http://mediaiptv.xyz:8000/live/julie/julie/1216.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1216.ts
 #EXTINF:-1,OSN Star Movies
-http://mediaiptv.xyz:8000/live/julie/julie/1211.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1211.ts
 #EXTINF:-1,OSN Cinema 1
-http://mediaiptv.xyz:8000/live/julie/julie/1210.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1210.ts
 #EXTINF:-1,OSN Office Box 3
-http://mediaiptv.xyz:8000/live/julie/julie/1207.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1207.ts
 #EXTINF:-1,OSN Office Box 2
-http://mediaiptv.xyz:8000/live/julie/julie/1206.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1206.ts
 #EXTINF:-1,OSN Office Box 1
-http://mediaiptv.xyz:8000/live/julie/julie/1205.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1205.ts
 #EXTINF:-1,OSN Movies Premiere
-http://mediaiptv.xyz:8000/live/julie/julie/1204.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1204.ts
 #EXTINF:-1,OSN Movies Kids HD
-http://mediaiptv.xyz:8000/live/julie/julie/1203.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1203.ts
 #EXTINF:-1,OSN Star World
-http://mediaiptv.xyz:8000/live/julie/julie/1202.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1202.ts
 #EXTINF:-1,OSN Comedy
-http://mediaiptv.xyz:8000/live/julie/julie/1198.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1198.ts
 #EXTINF:-1,WWE HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1903.ts
-#EXTINF:-1,Astro Sporm3u8 4
-http://mediaiptv.xyz:8000/live/julie/julie/1893.m3u8
+#EXTINF:-1,Astro Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1893.ts
 #EXTINF:-1,Astro Sport 3
-http://mediaiptv.xyz:8000/live/julie/julie/1741.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1741.ts
 #EXTINF:-1,Astro Sport 2
-http://mediaiptv.xyz:8000/live/julie/julie/1740.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1740.ts
 #EXTINF:-1,Astro Sport 1
-http://mediaiptv.xyz:8000/live/julie/julie/1739.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1739.ts
 #EXTINF:-1,OSN Fight
-http://mediaiptv.xyz:8000/live/julie/julie/1902.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1902.ts
 #EXTINF:-1,Super Sport 4 HD
-http://mediaiptv.xyz:8000/live/julie/julie/1897.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1897.ts
 #EXTINF:-1,Super Sport 3 HD
-http://mediaiptv.xyz:8000/live/julie/julie/1896.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1896.ts
 #EXTINF:-1,Super Sport 2 HD
-http://mediaiptv.xyz:8000/live/julie/julie/1895.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1895.ts
 #EXTINF:-1,Super Sport 1 HD
-http://mediaiptv.xyz:8000/live/julie/julie/1894.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1894.ts
 #EXTINF:-1,Willow Cricket HD
-http://mediaiptv.xyz:8000/live/julie/julie/485.m3u8
-#EXTINF:-1,TRACE Sporm3u8tars
-http://mediaiptv.xyz:8000/live/julie/julie/1889.m3u8
-#EXTINF:-1,Mio Sporm3u8
-http://mediaiptv.xyz:8000/live/julie/julie/1879.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/485.ts
+#EXTINF:-1,TRACE Sportstars
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1889.ts
+#EXTINF:-1,Mio Sports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1879.ts
 #EXTINF:-1,mio Stadium 108
-http://mediaiptv.xyz:8000/live/julie/julie/1887.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1887.ts
 #EXTINF:-1,mio Stadium 107
-http://mediaiptv.xyz:8000/live/julie/julie/1886.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1886.ts
 #EXTINF:-1,mio Stadium 106
-http://mediaiptv.xyz:8000/live/julie/julie/1885.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1885.ts
 #EXTINF:-1,mio Stadium 105
-http://mediaiptv.xyz:8000/live/julie/julie/1884.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1884.ts
 #EXTINF:-1,mio Stadium 104
-http://mediaiptv.xyz:8000/live/julie/julie/1883.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1883.ts
 #EXTINF:-1,mio Stadium 103
-http://mediaiptv.xyz:8000/live/julie/julie/1882.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1882.ts
 #EXTINF:-1,mio Stadium 102
-http://mediaiptv.xyz:8000/live/julie/julie/1881.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1881.ts
 #EXTINF:-1,Eleven Euro HD
-http://mediaiptv.xyz:8000/live/julie/julie/1877.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1877.ts
 #EXTINF:-1,ElevenEuro HD
-http://mediaiptv.xyz:8000/live/julie/julie/1880.m3u8
-#EXTINF:-1,BEIN Sporm3u8 1 HD
-http://mediaiptv.xyz:8000/live/julie/julie/1177.m3u8
-#EXTINF:-1,BEIN Sporm3u8 2 HD
-http://mediaiptv.xyz:8000/live/julie/julie/1178.m3u8
-#EXTINF:-1,BEIN Sporm3u8 3 HD
-http://mediaiptv.xyz:8000/live/julie/julie/1179.m3u8
-#EXTINF:-1,BEIN Sporm3u8 4 HD
-http://mediaiptv.xyz:8000/live/julie/julie/1180.m3u8
-#EXTINF:-1,BEIN Sporm3u8 5 HD
-http://mediaiptv.xyz:8000/live/julie/julie/1181.m3u8
-#EXTINF:-1,BEIN Sporm3u8 6 HD
-http://mediaiptv.xyz:8000/live/julie/julie/1182.m3u8
-#EXTINF:-1,BEIN Sporm3u8 7 HD
-http://mediaiptv.xyz:8000/live/julie/julie/1183.m3u8
-#EXTINF:-1,BEIN Sporm3u8 8 HD
-http://mediaiptv.xyz:8000/live/julie/julie/1184.m3u8
-#EXTINF:-1,BEIN Sporm3u8 9 HD
-http://mediaiptv.xyz:8000/live/julie/julie/1185.m3u8
-#EXTINF:-1,BEIN Sporm3u8 10 HD
-http://mediaiptv.xyz:8000/live/julie/julie/1186.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1880.ts
+#EXTINF:-1,BEIN Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1177.ts
+#EXTINF:-1,BEIN Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1178.ts
+#EXTINF:-1,BEIN Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1179.ts
+#EXTINF:-1,BEIN Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1180.ts
+#EXTINF:-1,BEIN Sports 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1181.ts
+#EXTINF:-1,BEIN Sports 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1182.ts
+#EXTINF:-1,BEIN Sports 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1183.ts
+#EXTINF:-1,BEIN Sports 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1184.ts
+#EXTINF:-1,BEIN Sports 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1185.ts
+#EXTINF:-1,BEIN Sports 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1186.ts
 #EXTINF:-1,Bein Sport USA
-http://mediaiptv.xyz:8000/live/julie/julie/1736.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1736.ts
 #EXTINF:-1,Arena Sport 1
-http://mediaiptv.xyz:8000/live/julie/julie/789.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/789.ts
 #EXTINF:-1,Arena Sport 2
-http://mediaiptv.xyz:8000/live/julie/julie/790.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/790.ts
 #EXTINF:-1,Arena Sport 3
-http://mediaiptv.xyz:8000/live/julie/julie/791.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/791.ts
 #EXTINF:-1,Arena Sport 4
-http://mediaiptv.xyz:8000/live/julie/julie/792.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/792.ts
 #EXTINF:-1,Ten Sport
-http://mediaiptv.xyz:8000/live/julie/julie/489.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/489.ts
 #EXTINF:-1,Ten Cricket
-http://mediaiptv.xyz:8000/live/julie/julie/490.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/490.ts
 #EXTINF:-1,STAR Cricket
-http://mediaiptv.xyz:8000/live/julie/julie/1878.m3u8
-#EXTINF:-1,Star Sporm3u8 1 HD
-http://mediaiptv.xyz:8000/live/julie/julie/493.m3u8
-#EXTINF:-1,Star Sporm3u8 2 HD
-http://mediaiptv.xyz:8000/live/julie/julie/486.m3u8
-#EXTINF:-1,Star Sporm3u8 3 HD
-http://mediaiptv.xyz:8000/live/julie/julie/492.m3u8
-#EXTINF:-1,Star Sporm3u8 4 HD
-http://mediaiptv.xyz:8000/live/julie/julie/491.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1878.ts
+#EXTINF:-1,Star Sports 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/493.ts
+#EXTINF:-1,Star Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/486.ts
+#EXTINF:-1,Star Sports 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/492.ts
+#EXTINF:-1,Star Sports 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/491.ts
 #EXTINF:-1,Arena Sport 1 Serbia
-http://mediaiptv.xyz:8000/live/julie/julie/1192.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1192.ts
 #EXTINF:-1,Arena Sport 2 Serbia
-http://mediaiptv.xyz:8000/live/julie/julie/1193.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1193.ts
 #EXTINF:-1,Arena Sport 3 Serbia
-http://mediaiptv.xyz:8000/live/julie/julie/1194.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1194.ts
 #EXTINF:-1,Arena Sport 4 Serbia
-http://mediaiptv.xyz:8000/live/julie/julie/1195.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1195.ts
 #EXTINF:-1,Arena Sport 5 Serbia
-http://mediaiptv.xyz:8000/live/julie/julie/1845.m3u8
-#EXTINF:-1,Fox Sporm3u8 1
-http://mediaiptv.xyz:8000/live/julie/julie/415.m3u8
-#EXTINF:-1,Fox Sporm3u8 2
-http://mediaiptv.xyz:8000/live/julie/julie/416.m3u8
-#EXTINF:-1,Fox Sporm3u8 3
-http://mediaiptv.xyz:8000/live/julie/julie/417.m3u8
-#EXTINF:-1,Fox Sporm3u8 4
-http://mediaiptv.xyz:8000/live/julie/julie/418.m3u8
-#EXTINF:-1,Fox Sporm3u8 5
-http://mediaiptv.xyz:8000/live/julie/julie/419.m3u8
-#EXTINF:-1,Fox Sporm3u8 6
-http://mediaiptv.xyz:8000/live/julie/julie/420.m3u8
-#EXTINF:-1,US SPORm3u8NET ONTARIO
-http://mediaiptv.xyz:8000/live/julie/julie/1974.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1845.ts
+#EXTINF:-1,Fox Sports 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/415.ts
+#EXTINF:-1,Fox Sports 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/416.ts
+#EXTINF:-1,Fox Sports 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/417.ts
+#EXTINF:-1,Fox Sports 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/418.ts
+#EXTINF:-1,Fox Sports 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/419.ts
+#EXTINF:-1,Fox Sports 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/420.ts
+#EXTINF:-1,US SPORtsNET ONTARIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1974.ts
 #EXTINF:-1,FX
-http://mediaiptv.xyz:8000/live/julie/julie/1848.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1848.ts
 #EXTINF:-1,MY9
-http://mediaiptv.xyz:8000/live/julie/julie/1849.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1849.ts
 #EXTINF:-1,Bravo
-http://mediaiptv.xyz:8000/live/julie/julie/1850.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1850.ts
 #EXTINF:-1,CW
-http://mediaiptv.xyz:8000/live/julie/julie/1853.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1853.ts
 #EXTINF:-1,CBS
-http://mediaiptv.xyz:8000/live/julie/julie/1852.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1852.ts
 #EXTINF:-1,NBC
-http://mediaiptv.xyz:8000/live/julie/julie/1855.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1855.ts
 #EXTINF:-1,PBS
-http://mediaiptv.xyz:8000/live/julie/julie/1856.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1856.ts
 #EXTINF:-1,AETV
-http://mediaiptv.xyz:8000/live/julie/julie/1857.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1857.ts
 #EXTINF:-1,CN
-http://mediaiptv.xyz:8000/live/julie/julie/1859.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1859.ts
 #EXTINF:-1,CNBC
-http://mediaiptv.xyz:8000/live/julie/julie/1861.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1861.ts
 #EXTINF:-1,Cormcen
-http://mediaiptv.xyz:8000/live/julie/julie/1862.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1862.ts
 #EXTINF:-1,AMC
-http://mediaiptv.xyz:8000/live/julie/julie/1867.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1867.ts
 #EXTINF:-1,ABC
-http://mediaiptv.xyz:8000/live/julie/julie/1851.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1851.ts
 #EXTINF:-1,USA-
-http://mediaiptv.xyz:8000/live/julie/julie/1873.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1873.ts
 #EXTINF:-1,TNT US
-http://mediaiptv.xyz:8000/live/julie/julie/1871.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1871.ts
 #EXTINF:-1,TBS US
-http://mediaiptv.xyz:8000/live/julie/julie/1870.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1870.ts
 #EXTINF:-1,Syfy US
-http://mediaiptv.xyz:8000/live/julie/julie/1869.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1869.ts
 #EXTINF:-1,Spike US
-http://mediaiptv.xyz:8000/live/julie/julie/1872.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1872.ts
 #EXTINF:-1,Nick US
-http://mediaiptv.xyz:8000/live/julie/julie/1868.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1868.ts
 #EXTINF:-1,Nat Geo US
-http://mediaiptv.xyz:8000/live/julie/julie/1874.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1874.ts
 #EXTINF:-1,Lifetime US
-http://mediaiptv.xyz:8000/live/julie/julie/1866.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1866.ts
 #EXTINF:-1,History US
-http://mediaiptv.xyz:8000/live/julie/julie/1865.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1865.ts
 #EXTINF:-1,FOX US
-http://mediaiptv.xyz:8000/live/julie/julie/1854.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1854.ts
 #EXTINF:-1,Fox News US
-http://mediaiptv.xyz:8000/live/julie/julie/1875.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1875.ts
 #EXTINF:-1,ESPN US
-http://mediaiptv.xyz:8000/live/julie/julie/1864.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1864.ts
 #EXTINF:-1,Discovery US
-http://mediaiptv.xyz:8000/live/julie/julie/1863.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1863.ts
 #EXTINF:-1,CNN US
-http://mediaiptv.xyz:8000/live/julie/julie/1860.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1860.ts
 #EXTINF:-1,Animal Planet US
-http://mediaiptv.xyz:8000/live/julie/julie/1858.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1858.ts
 #EXTINF:-1,ABC News US
-http://mediaiptv.xyz:8000/live/julie/julie/1876.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1876.ts
