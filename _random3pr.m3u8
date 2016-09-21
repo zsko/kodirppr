@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Sky Sporm3u8 News HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1698.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1698.ts
 #EXTINF:-1,Sky Sporm3u8 F1 UK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1696.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1696.ts
 #EXTINF:-1,Sky Sporm3u8 Box Office UK
 http://mediaiptv.xyz:8000/live/julie/julie/1695.m3u8
 #EXTINF:-1,Sky Sporm3u8 5 UK
@@ -278,7 +278,7 @@ http://mediaiptv.xyz:8000/live/julie/julie/1202.m3u8
 #EXTINF:-1,OSN Comedy
 http://mediaiptv.xyz:8000/live/julie/julie/1198.m3u8
 #EXTINF:-1,WWE HD
-http://mediaiptv.xyz:8000/live/julie/julie/1903.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://mediaiptv.xyz:8000/live/julie/julie/1903.ts
 #EXTINF:-1,Astro Sporm3u8 4
 http://mediaiptv.xyz:8000/live/julie/julie/1893.m3u8
 #EXTINF:-1,Astro Sport 3
